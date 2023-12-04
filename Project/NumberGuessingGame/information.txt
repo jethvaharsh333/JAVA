@@ -1,0 +1,4 @@
+The system generates a random number within a specified range (e.g., 1 to 100).
+Players are prompted to input their guesses, keeping the engagement high.
+The game dynamically informs users if their guess is higher, lower, or correct, guiding them towards the target.
+The project includes options to limit the number of attempts, add multiple rounds, display scores, and assign points based on guessing 
